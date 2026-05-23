@@ -1,0 +1,8 @@
+.env
+workspace/
+n8n_data/
+openhands_data/
+cloudflared/
+*.log
+.DS_Store
+Thumbs.db
